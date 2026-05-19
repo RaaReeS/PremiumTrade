@@ -63,8 +63,8 @@ Aplicación web progresiva (PWA) para gestión de inventario, control de gastos 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/inventario.git
-   cd inventario
+   git clone https://github.com/RaaReeS/PremiumTrade.git
+   cd PremiumTrade
    ```
 
 2. Abre `index.html` en tu navegador o sirve con un servidor local:
