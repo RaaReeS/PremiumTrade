@@ -1,16 +1,6 @@
 /* ═══════════════════════════════════════════════════════════════
-   firebase-config.js - Configuración de Firebase
+   firebase-config.js - Inicialización de Firebase
    ═══════════════════════════════════════════════════════════════ */
-
-// ─── Configuración de Firebase ───
-const firebaseConfig = {
-  apiKey: "AIzaSyDHMKIFJOhdWV7dcQymHb5qmP0K3xyLeJk",
-  authDomain: "premiumtradee.firebaseapp.com",
-  projectId: "premiumtradee",
-  storageBucket: "premiumtradee.firebasestorage.app",
-  messagingSenderId: "1067926057869",
-  appId: "1:1067926057869:web:04e8ed3cbcfc48053a83c4"
-};
 
 // ─── Variables globales ───
 let auth = null;

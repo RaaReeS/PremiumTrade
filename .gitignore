@@ -3,6 +3,9 @@ firebase-debug.log
 .firebaserc.local
 .firebase/
 
+# Configuración local (claves de Firebase)
+js/config.js
+
 # Node (temporal para generar iconos)
 node_modules/
 scripts/
