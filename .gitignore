@@ -1,0 +1,16 @@
+# Firebase
+firebase-debug.log
+.firebaserc.local
+.firebase/
+
+# Node (temporal para generar iconos)
+node_modules/
+scripts/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
